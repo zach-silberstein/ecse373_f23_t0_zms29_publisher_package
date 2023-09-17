@@ -1,0 +1,6 @@
+# The hash (#) is the comment character
+
+# Typical backup file patterns
+*~
+\#*#
+*.bak
